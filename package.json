@@ -4,5 +4,11 @@
   "private": true,
   "dependencies": {
     "rxjs": "6.4.*"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "build": "parcel index.html"
   }
 }
